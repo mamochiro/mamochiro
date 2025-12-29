@@ -67,39 +67,12 @@ Strong background in:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=mamochiro&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=mamochiro&show_icons=true&theme=default&hide_border=true&count_private=true"
-      height="170"
-    />
-  </picture>
-
-  <picture>
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=mamochiro&theme=github-dark-blue&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=mamochiro&theme=default&hide_border=true"
-      height="170"
-    />
-  </picture>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mamochiro&show_icons=true&count_private=true&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamochiro&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mamochiro&layout=compact&theme=github_dark&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamochiro&layout=compact&theme=default&hide_border=true"
-    />
-  </picture>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mamochiro&layout=compact&hide_border=true"/>
 </p>
 
 ---

@@ -134,7 +134,7 @@ func NewSarawut() Engineer {
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mamochiro&theme=darkhub&no-frame=true&no-bg=true&column=7"/>
+  <img src="https://github-trophies.vercel.app/?username=mamochiro&theme=darkhub&no-frame=true&no-bg=true&column=7"/>
 </p>
 
 ---
@@ -142,11 +142,11 @@ func NewSarawut() Engineer {
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mamochiro&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mamochiro&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mamochiro&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamochiro&theme=dark&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamochiro&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mamochiro&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
 
 ---

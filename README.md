@@ -142,11 +142,11 @@ func NewSarawut() Engineer {
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mamochiro&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mamochiro&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamochiro&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamochiro&theme=tokyonight&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mamochiro&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamochiro&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 ---

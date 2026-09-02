@@ -1,5 +1,5 @@
 <h1 align="center">Sarawut Nawawisitkul</h1>
-<h3 align="center">Senior Backend Engineer · Bangkok, Thailand</h3>
+<h3 align="center">Software Engineer · Bangkok, Thailand</h3>
 
 <p align="center">
   <a href="https://github.com/mamochiro">
@@ -9,8 +9,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%3E_+Building+FinTech+backends+in+Go;%3E_+200K%2B+transactions%2Fday;%3E_+Microservices+%7C+Kafka+%7C+K8s;%3E_+Systems+that+never+sleep"/>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=%3E_+Building+FinTech+backends+in+Go;%3E_+200K%2B+transactions%2Fday;%3E_+Microservices+%7C+Kafka+%7C+K8s;%3E_+Systems+that+never+sleep"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%3E_+Building+FinTech+backends+in+Go;%3E_+DDD+%26+Hexagonal+Architecture;%3E_+Microservices+%7C+Kafka+%7C+K8s;%3E_+Systems+that+never+sleep"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=%3E_+Building+FinTech+backends+in+Go;%3E_+DDD+%26+Hexagonal+Architecture;%3E_+Microservices+%7C+Kafka+%7C+K8s;%3E_+Systems+that+never+sleep"/>
   </picture>
 </p>
 
@@ -33,15 +33,15 @@ type Engineer struct {
 func NewSarawut() Engineer {
     return Engineer{
         Name:       "Sarawut Nawawisitkul",
-        Role:       "Senior Backend Engineer",
+        Role:       "Software Engineer",
         Location:   "Bangkok, Thailand",
-        Experience: "7+ years in FinTech & Capital Markets",
-        Languages:  []string{"Go", "Scala", "JavaScript", "PHP"},
+        Experience: "7+ years building mutual fund trading & investment platforms",
+        Languages:  []string{"Go", "Scala", "TypeScript", "JavaScript", "PHP"},
         Focus: []string{
-            "Trading & Investment Platforms",
-            "Financial Open APIs (200K+ txn/day)",
-            "Elasticsearch Financial Analytics",
-            "Cloud-Native & CI/CD Pipelines",
+            "Golang Microservices & DDD (Hexagonal/Clean Architecture)",
+            "Kafka Event-Driven Workflows for Fund Order Processing",
+            "Open APIs for Finvest, Odini, FinPlus & Wealth Plus",
+            "AI-Assisted SDLC with Claude Code",
         },
     }
 }
@@ -53,7 +53,7 @@ func NewSarawut() Engineer {
 
 | Company | Role | Period |
 |---------|------|--------|
-| **Robowealth Co., Ltd.** | Senior Software Engineer | Mar 2020 – Present |
+| **Robowealth Co., Ltd.** | Software Engineer | Mar 2020 – Present |
 | **Workmotion Creative** | Software Developer | Jul 2018 – Feb 2020 |
 | **Spoon Laboratories Co., Ltd.** | R&D | Aug 2017 – Dec 2017 |
 
@@ -142,11 +142,11 @@ func NewSarawut() Engineer {
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mamochiro&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=mamochiro&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamochiro&theme=tokyonight&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamochiro&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=mamochiro&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 ---
@@ -154,7 +154,7 @@ func NewSarawut() Engineer {
 ## Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mamochiro&theme=react-dark&hide_border=true&area=true"/>
+  <img src="https://activity-graph.vercel.app/graph?username=mamochiro&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 ---
